@@ -15,4 +15,4 @@ The objective of this section is to investigate the dependency dynamics between 
 In summary, our study aims to identify how in-game events and statistics influence betting odds, providing insights for developing profitable trading strategies in sports betting markets.
 
 
-[Click here to view the slides](/Users/danieleraimondi/Betting_Livescore_Scrapers-1/docs/Slides.pdf)
+![Slides](/Users/danieleraimondi/Betting_Livescore_Scrapers-1/docs/Slides.pdf)
