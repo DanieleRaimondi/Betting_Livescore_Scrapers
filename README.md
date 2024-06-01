@@ -8,7 +8,7 @@ Data Analyses follow to understand it.
 
 
 ## Members of the team:
----
+
 * Daniele Raimondi - Data Scientist
 * Davide Airaghi - Engineer
 * Luca Gaddoni - Business Analyst
