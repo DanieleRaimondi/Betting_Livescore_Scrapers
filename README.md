@@ -1,5 +1,4 @@
-#  Bets_Insights
-* * *
+# Betting Exchange and Livescore Scrapers
 
 This is a project I realized with four colleagues of mine during my Master.
 I wanted to investigate how the odds of a live football match vary during the game, in relation with the what happens during it.
@@ -8,7 +7,7 @@ To answer it, we scraped odds from a popular betting exchange provider and comme
 Data Analyses follow to understand it.
 
 
-## Members of the team:
+## Members of the team:
 ---
 * Daniele Raimondi - Data Scientist
 * Davide Airaghi - Engineer
